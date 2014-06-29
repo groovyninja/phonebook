@@ -5,6 +5,12 @@ import java.util.Set;
 /**
  * Created by user on 27.05.14.
  */
+/*
+ some changes for commit and merge
+*/
+/* 
+add new comment in branch dev
+*/
 public class Person
 {
     public Person(String name, Set<Phone> phones) {
